@@ -1,0 +1,51 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background: linear-gradient(135deg, #ff9ff3, #54a0ff); /* stable vibrant gradient */
+  border-radius: 12px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+  color: #fff;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  border-radius: 50%;
+  background: #ff6b6b; /* solid vibrant color */
+  filter: drop-shadow(0 0 1em #ff6b6b);
+  transition: transform 0.3s, filter 0.3s;
+}
+.logo:hover {
+  transform: scale(1.1);
+  filter: drop-shadow(0 0 2em #ff8787);
+}
+.logo.react:hover {
+  background: #1dd1a1; 
+  filter: drop-shadow(0 0 2em #1dd1a1);
+}
+
+.card {
+  padding: 2em;
+  background: #ff9ff3; /* solid vibrant card background */
+  border-radius: 15px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.25);
+}
+
+.read-the-docs {
+  background: #feca57; /* solid vibrant text color */
+  color: #fff;
+  font-weight: bold;
+  padding: 0.2em 0.5em;
+  border-radius: 5px;
+  transition: background 0.3s;
+}
+.read-the-docs:hover {
+  background: #ff6b6b;
+}
