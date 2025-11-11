@@ -82,7 +82,7 @@ function Calculator() {
       return;
     }
 
-    const h = height / 100; // convert cm to meters
+    const h = height / 100; 
     const bmiValue = weight / (h * h);
     const roundedBMI = bmiValue.toFixed(2);
     setBmi(roundedBMI);
