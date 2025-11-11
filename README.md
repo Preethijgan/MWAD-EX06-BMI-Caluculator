@@ -1,5 +1,5 @@
 # Ex06 BMI Calculator
-## Date: 10-11-2025
+## Date: 11-11-2025
 
 ## AIM
 To create a BMI calculator using React Router 
@@ -155,10 +155,10 @@ export default Home;
 
 
 ## OUTPUT
+<img width="1920" height="1080" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/85861bda-35ba-47c2-a2de-44e48ae518fe" />
+<img width="1920" height="1080" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/d2b3a3f6-d1f2-4fff-bfa6-79df9783d8a7" />
+<img width="1920" height="1080" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/894331d7-d6dd-4871-b1ae-514cec4a70c5" />
 
-<img width="1919" height="1079" alt="Screenshot 2025-11-10 213614" src="https://github.com/user-attachments/assets/a20b3dff-30d9-4f8f-9518-126068756e16" />
-<img width="1919" height="1079" alt="Screenshot 2025-11-10 213623" src="https://github.com/user-attachments/assets/b33eb75a-4e86-43e8-b9da-c068b7abb571" />
-<img width="1919" height="1079" alt="Screenshot 2025-11-10 213639" src="https://github.com/user-attachments/assets/d3963325-f301-41cf-a084-0c5cd83fc772" />
 
 
 
